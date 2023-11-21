@@ -8,25 +8,12 @@ public class test {
 
     }
 
-    public void t2(int n){
-        System.out.println("haha"+n);
-    }
-
     public void t2(int n) {
         System.out.println("haha" + n);
     }
     public void t1(){
         System.out.println("hello");
       
-    }
-
-
-
-
-
-
-    public void test2(int n){
-        System.out.println("haha"+n);
     }
 
 }
