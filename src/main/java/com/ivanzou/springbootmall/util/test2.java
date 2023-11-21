@@ -1,11 +1,7 @@
 package com.ivanzou.springbootmall.util;
 
 public class test2 {
+    public static void main(String[] args) {
 
-    void ttt() {
-        System.out.println("hey");
-    }
-    void tt(){
-        System.out.println("hello");
     }
 }
