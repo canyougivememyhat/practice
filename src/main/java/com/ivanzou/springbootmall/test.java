@@ -12,4 +12,13 @@ public class test {
         System.out.println("haha"+n);
     }
 
+
+
+
+
+
+    public void test2(int n){
+        System.out.println("haha"+n);
+    }
+
 }
